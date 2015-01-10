@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.30110.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{C1434FA4-ED3F-4A7B-A0D3-8CBB900B1609}"
 	ProjectSection(SolutionItems) = preProject
@@ -40,6 +40,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.AutoMapper", "Abp.AutoMapper\Abp.AutoMapper.csproj", "{06EB5F7C-B974-4775-A305-F175D645F7C9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abp.AutoMapper.Tests", "Tests\Abp.AutoMapper.Tests\Abp.AutoMapper.Tests.csproj", "{6C1BB309-3FE8-40A1-A97C-62495CE61AB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwesomeAngularMVCApp", "AwesomeAngularMVCApp\AwesomeAngularMVCApp\AwesomeAngularMVCApp.csproj", "{1DF1274A-977A-45D6-B598-AE45FC0E700E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -107,6 +109,10 @@ Global
 		{6C1BB309-3FE8-40A1-A97C-62495CE61AB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C1BB309-3FE8-40A1-A97C-62495CE61AB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C1BB309-3FE8-40A1-A97C-62495CE61AB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF1274A-977A-45D6-B598-AE45FC0E700E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF1274A-977A-45D6-B598-AE45FC0E700E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF1274A-977A-45D6-B598-AE45FC0E700E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF1274A-977A-45D6-B598-AE45FC0E700E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
